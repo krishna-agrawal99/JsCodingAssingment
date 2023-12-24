@@ -6,6 +6,6 @@ Task 1. ArrayManupalation
 
 Task 2.Object Operations 
 - objectOrientation.js
-- 
+
 Task 3 Logical Operation
 -  findCommonElements.js
